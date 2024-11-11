@@ -48,8 +48,8 @@ Fly by the end of Fall 2024 or the beginning of Spring 2025
 ## Useful Links
 
 ![](FPV_Hello.jpg)
-https://github.com/daveencar03/Frankenstein_FPV_Drone/blob/main/FPV_isometric.jpg
-https://github.com/daveencar03/Frankenstein_FPV_Drone/blob/main/FPV_top_down.jpg
+![](FPV_isometric.jpg)
+![](FPV_top_down.jpg)
 
 ## Log
 
