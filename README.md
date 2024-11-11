@@ -19,7 +19,8 @@ Skills involved include wireless radio communications, soldering, and part analy
 ## Tasks
 
 - Connect ELRS Receiver
-- Obtain a RC Controller compatible with my ELRS Transmitter Module
+- Obtain an RC Controller compatible with my ELRS Transmitter Module
+- Install propellers
 - Verify functionality
 - Organize wiring
 - Fly!
