@@ -27,7 +27,7 @@ Skills involved include wireless radio communications, soldering, and part analy
 
 ## Design Decisions
 
-Part selection is constrained by what I have available. I would rather search for parts compatible with what I have now as opposed to purchasing brand-new parts and starting from scratch.
+Part selection is constrained by what I have available. I would rather search for parts compatible with what I have now as opposed to purchasing brand-new parts and starting from scratch
 
 ## Design Misc
 
