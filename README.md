@@ -42,7 +42,7 @@ Part selection is constrained by what I have available. I would rather search fo
 
 ## BOM + Component Cost
 
-![](BoM.jpg)
+![](BoM.png)
 
 ## Timeline
 
