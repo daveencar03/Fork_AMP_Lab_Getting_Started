@@ -47,7 +47,7 @@ Fly by the end of Fall 2024 or the beginning of Spring 2025
 
 ## Useful Links
 
-![](FPV_Hello.jpg)
+![](hero.png)
 ![](FPV_isometric.jpg)
 ![](FPV_top_down.jpg)
 
