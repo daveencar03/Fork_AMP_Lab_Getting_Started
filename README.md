@@ -50,13 +50,13 @@ Fly by the end of Fall 2024 or the beginning of Spring 2025
 
 ## Useful Links
 
-##Images
+## Images
 ![](hero.png)
-Above depicts the drone on and in its current state of operations, showing myself waving through the FPV headset (11/11)
+# Above depicts the drone on and in its current state of operations, showing myself waving through the FPV headset (11/11)
 ![](FPV_isometric.jpg)
-Above depicts an isometric view of the current state of the drone (11/11)
+# Above depicts an isometric view of the current state of the drone (11/11)
 ![](FPV_top_down.jpg)
-Above depicts a top-down view of the current state of the drone (11/11)
+# Above depicts a top-down view of the current state of the drone (11/11)
 
 ## Log
 
