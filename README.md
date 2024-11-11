@@ -42,7 +42,7 @@ Part selection is constrained by what I have available. I would rather search fo
 
 ## BOM + Component Cost
 
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+![](BoM.jpg)
 
 ## Timeline
 
